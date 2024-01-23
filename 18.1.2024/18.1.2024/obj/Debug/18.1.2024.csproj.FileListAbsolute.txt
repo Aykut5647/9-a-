@@ -1,0 +1,7 @@
+C:\Aykut_9a\18.1.2024\18.1.2024\bin\Debug\18.1.2024.exe.config
+C:\Aykut_9a\18.1.2024\18.1.2024\bin\Debug\18.1.2024.exe
+C:\Aykut_9a\18.1.2024\18.1.2024\bin\Debug\18.1.2024.pdb
+C:\Aykut_9a\18.1.2024\18.1.2024\obj\Debug\18.1.2024.csproj.AssemblyReference.cache
+C:\Aykut_9a\18.1.2024\18.1.2024\obj\Debug\18.1.2024.csproj.CoreCompileInputs.cache
+C:\Aykut_9a\18.1.2024\18.1.2024\obj\Debug\18.1.2024.exe
+C:\Aykut_9a\18.1.2024\18.1.2024\obj\Debug\18.1.2024.pdb
